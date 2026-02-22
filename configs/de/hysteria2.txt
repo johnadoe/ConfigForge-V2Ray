@@ -1,2 +1,3 @@
-hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.151.251.122:35000/?insecure=1&sni=www.lamer.com.hk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20500712
-hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.153.25.59:35000/?insecure=1&sni=www.lamer.com.hk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20219856
+hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.151.251.122:35000/?insecure=1&sni=www.lamer.com.hk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20476156
+hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@143.47.32.143:35000/?insecure=1&sni=www.lamer.com.hk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20547060
+hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.153.25.59:35000/?insecure=1&sni=www.lamer.com.hk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20403169
