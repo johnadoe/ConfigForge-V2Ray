@@ -1,4 +1,4 @@
-hy2://zhangyang@130.61.50.75:6443/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20714116
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20407939
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20743961
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20169902
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20106151
+hy2://zhangyang@130.61.50.75:6443/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20142359
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20968148
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20697971
