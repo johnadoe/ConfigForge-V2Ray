@@ -1,3 +1,2 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.133.111.231:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20799752
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20369940
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.128.148.141:443/?insecure=1&sni=vpn-sg-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20519905
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.59.129.155:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20987375
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20961883
