@@ -1,3 +1,4 @@
-udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20183019
-udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20153183
-udp://8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20480143
+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20825030
+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20877325
+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20197111
+udp://8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20277820
